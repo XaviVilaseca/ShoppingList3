@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm">Confirmación</string>
+    <string name="remove">Borrar</string>
+    <string name="confirm_message">Esta seguro de querer eliminar \'%1$s\'?</string>
+    <string name="chestnust">Castañas</string>
+    <string name="pizza">Pizza</string>
+    <string name="potatoes">Patatas</string>
+    <string name="cannot_write">No se puede escribir list</string>
+    <string name="cannot_read">No se puede leer la lista</string>
+    <string name="app_name">Lista de la Compra</string>
+    <string name="ckear_checked">Eliminar objectos seleccionados</string>
+    <string name="clear_all">Borrar todo</string>
+</resources>
